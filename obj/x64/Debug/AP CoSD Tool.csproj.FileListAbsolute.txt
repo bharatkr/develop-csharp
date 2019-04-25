@@ -1,0 +1,58 @@
+D:\Lin\AP\AP SADb Tool\obj\x64\Debug\AP_SADb_Tool.Chart.resources
+D:\Lin\AP\AP SADb Tool\obj\x64\Debug\AP_SADb_Tool.Delete.resources
+D:\Lin\AP\AP SADb Tool\obj\x64\Debug\AP_SADb_Tool.UpdateValidate.resources
+D:\Lin\AP\AP SADb Tool\obj\x64\Debug\AP_SADb_Tool.Upload.resources
+D:\Lin\AP\AP SADb Tool\obj\x64\Debug\AP_SADb_Tool.Home.resources
+D:\Lin\AP\AP SADb Tool\obj\x64\Debug\AP_SADb_Tool.ImportMyExcel.resources
+D:\Lin\AP\AP SADb Tool\obj\x64\Debug\AP CoSD Tool.csproj.GenerateResource.Cache
+D:\Lin\AP\AP SADb Tool\obj\x64\Debug\AP_SADb_Tool.Properties.Resources.resources
+D:\Lin\AP\AP SADb Tool\bin\x64\Debug\AP SADb Tool.exe.config
+D:\Lin\AP\AP SADb Tool\bin\x64\Debug\AP SADb Tool.exe.manifest
+D:\Lin\AP\AP SADb Tool\bin\x64\Debug\AP SADb Tool.application
+D:\Lin\AP\AP SADb Tool\bin\x64\Debug\AP SADb Tool.exe
+D:\Lin\AP\AP SADb Tool\bin\x64\Debug\AP SADb Tool.pdb
+D:\Lin\AP\AP SADb Tool\bin\x64\Debug\ZedGraph.dll
+D:\Lin\AP\AP SADb Tool\obj\x64\Debug\AP SADb Tool.exe.manifest
+D:\Lin\AP\AP SADb Tool\obj\x64\Debug\AP SADb Tool.application
+D:\Lin\AP\AP SADb Tool\obj\x64\Debug\AP SADb Tool.exe
+D:\Lin\AP\AP SADb Tool\obj\x64\Debug\AP SADb Tool.pdb
+D:\Lin\AP\AP SADb Tool\obj\x64\Debug\AP CoSD Tool.csprojResolveAssemblyReference.cache
+D:\Lin\AP\AP SADb Tool\obj\x64\Debug\AP_SADb_Tool.ManageRepoForm.resources
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\bin\x64\Debug\Resources\AP Sample Import Sheet.xlsx
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\bin\x64\Debug\Resources\Business Rules_Upload.xlsx
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\bin\x64\Debug\Resources\Keywords.txt
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\bin\x64\Debug\AP CoSD Tool.exe.config
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\bin\x64\Debug\AP CoSD Tool.exe
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\bin\x64\Debug\AP CoSD Tool.pdb
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\bin\x64\Debug\Microsoft.SqlServer.Dts.Design.dll
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\bin\x64\Debug\Microsoft.SqlServer.ManagedDTS.dll
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\bin\x64\Debug\Microsoft.SqlServer.PipelineHost.dll
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP_CoSD_Tool.ConstructedVariables.resources
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP_CoSD_Tool.BusinessRules.resources
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP_CoSD_Tool.BusinessRulesInsertForm.resources
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP_CoSD_Tool.Chart.resources
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP_CoSD_Tool.ConversionFactorForm.resources
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP_CoSD_Tool.ArchiveForm.resources
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP_CoSD_Tool.DocumentationForm.resources
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP_CoSD_Tool.FeedbackForm.resources
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP_CoSD_Tool.HelpFormula.resources
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP_CoSD_Tool.Mail_Update.resources
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP_CoSD_Tool.Popup.resources
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP_CoSD_Tool.PrivacyForm.resources
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP_CoSD_Tool.RepoManagement.resources
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP_CoSD_Tool.StreamData.resources
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP_CoSD_Tool.UpdateValidate.resources
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP_CoSD_Tool.HandEntered.resources
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP_CoSD_Tool.Home.resources
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP_CoSD_Tool.Properties.Resources.resources
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP_CoSD_Tool.ImportExport.resources
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP_CoSD_Tool.AutomatedValidation.resources
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP_CoSD_Tool.WaitForm.resources
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP CoSD Tool.csproj.GenerateResource.Cache
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP CoSD Tool.exe
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP CoSD Tool.pdb
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP_CoSD_Tool.BusinessRulesTree.resources
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP_CoSD_Tool.LoadingForm.resources
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP_CoSD_Tool.StreamingForm.resources
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP_CoSD_Tool.WaitBR.resources
+C:\ers\APCoSDTool\APCoSDTool\AP CoSD Tool\obj\x64\Debug\AP CoSD Tool.csprojResolveAssemblyReference.cache

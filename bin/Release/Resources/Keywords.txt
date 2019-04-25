@@ -1,0 +1,1 @@
+CV,N,macro,conv,Avg

@@ -1,0 +1,12 @@
+D:\Lin\AP\AP SADb Tool\bin\x86\Debug\AP SADb Tool.exe.config
+D:\Lin\AP\AP SADb Tool\bin\x86\Debug\AP SADb Tool.exe
+D:\Lin\AP\AP SADb Tool\bin\x86\Debug\AP SADb Tool.pdb
+D:\Lin\AP\AP SADb Tool\obj\x86\Debug\AP_SADb_Tool.Delete.resources
+D:\Lin\AP\AP SADb Tool\obj\x86\Debug\AP_SADb_Tool.UpdateValidate.resources
+D:\Lin\AP\AP SADb Tool\obj\x86\Debug\AP_SADb_Tool.Upload.resources
+D:\Lin\AP\AP SADb Tool\obj\x86\Debug\AP_SADb_Tool.Home.resources
+D:\Lin\AP\AP SADb Tool\obj\x86\Debug\AP_SADb_Tool.Properties.Resources.resources
+D:\Lin\AP\AP SADb Tool\obj\x86\Debug\AP_SADb_Tool.ImportMyExcel.resources
+D:\Lin\AP\AP SADb Tool\obj\x86\Debug\AP CoSD Tool.csproj.GenerateResource.Cache
+D:\Lin\AP\AP SADb Tool\obj\x86\Debug\AP SADb Tool.exe
+D:\Lin\AP\AP SADb Tool\obj\x86\Debug\AP SADb Tool.pdb
